@@ -1,0 +1,38 @@
+name: NHL Fetcher
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 7 AM PDT / 6 AM PST — pass 1 (full slate)
+    - cron: '0 16 * * *'  # 9 AM PDT / 8 AM PST — pass 2 (catches missing late-night videos)
+  workflow_dispatch:       # lets you fire it manually from the Actions tab
+
+permissions:
+  contents: write          # required so the in-script `git push` can write back
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-script push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run fetcher (pass 1)
+        if: github.event.schedule == '0 14 * * *' || github.event_name == 'workflow_dispatch'
+        run: python nhl_fetcher.py
+
+      - name: Run fetcher (pass 2)
+        if: github.event.schedule == '0 16 * * *'
+        run: python nhl_fetcher.py --pass 2
