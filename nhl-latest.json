@@ -1,5 +1,233 @@
 {
-  "date": "2026-05-15",
-  "fetchedAt": "2026-05-16T16:42:34Z",
-  "games": []
+  "date": "2026-05-16",
+  "fetchedAt": "2026-05-17T15:04:02Z",
+  "games": [
+    {
+      "gameId": "2025030216",
+      "homeTeam": "MTL",
+      "awayTeam": "BUF",
+      "homeScore": 3,
+      "awayScore": 8,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395843378112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "00:32",
+          "teamAbbrev": "BUF",
+          "scorer": "Rasmus Dahlin",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Mattias Samuelsson",
+            "Zach Benson"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6395831412112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395831412112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-dahlin-scores-goal-against-jakub-dobes-6395831412112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "01:40",
+          "teamAbbrev": "MTL",
+          "scorer": "Arber Xhekaj",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Jake Evans"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395833090112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395833090112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-xhekaj-scores-goal-against-alex-lyon-6395833090112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "08:12",
+          "teamAbbrev": "MTL",
+          "scorer": "Ivan Demidov",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Lane Hutson",
+            "Cole Caufield"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6395831252112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395831252112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-demidov-scores-ppg-against-alex-lyon-6395831252112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "10:14",
+          "teamAbbrev": "MTL",
+          "scorer": "Jake Evans",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Mike Matheson"
+          ],
+          "homeScore": 3,
+          "awayScore": 1,
+          "strength": "SH",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395832419112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395832419112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-evans-scores-shg-against-alex-lyon-6395832419112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "13:56",
+          "teamAbbrev": "BUF",
+          "scorer": "Jason Zucker",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Josh Norris",
+            "Jack Quinn"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395833417112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395833417112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-zucker-scores-ppg-against-jakub-dobes-6395833417112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "01:00",
+          "teamAbbrev": "BUF",
+          "scorer": "Zach Benson",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Tage Thompson",
+            "Bowen Byram"
+          ],
+          "homeScore": 3,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6395836150112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395836150112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-benson-scores-goal-against-jakub-dobes-6395836150112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "10:54",
+          "teamAbbrev": "BUF",
+          "scorer": "Jack Quinn",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Rasmus Dahlin",
+            "Tage Thompson"
+          ],
+          "homeScore": 3,
+          "awayScore": 4,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6395837269112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395837269112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-quinn-scores-ppg-against-jakub-dobes-6395837269112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "12:59",
+          "teamAbbrev": "BUF",
+          "scorer": "Konsta Helenius",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Jason Zucker",
+            "Rasmus Dahlin"
+          ],
+          "homeScore": 3,
+          "awayScore": 5,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395837294112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395837294112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-helenius-scores-goal-against-jakub-dobes-6395837294112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "09:58",
+          "teamAbbrev": "BUF",
+          "scorer": "Jack Quinn",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Tage Thompson",
+            "Rasmus Dahlin"
+          ],
+          "homeScore": 3,
+          "awayScore": 6,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6395843922112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395843922112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-quinn-scores-ppg-against-jakub-dobes-6395843922112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "14:12",
+          "teamAbbrev": "BUF",
+          "scorer": "Tage Thompson",
+          "scorerSeasonTotal": 5,
+          "assists": [],
+          "homeScore": 3,
+          "awayScore": 7,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "snap",
+          "videoId": "6395842938112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395842938112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-thompson-scores-empty-net-goal-6395842938112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "17:49",
+          "teamAbbrev": "BUF",
+          "scorer": "Zach Metsa",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Ryan McLeod",
+            "Rasmus Dahlin"
+          ],
+          "homeScore": 3,
+          "awayScore": 8,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395844617112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395844617112",
+          "fallbackUrl": "https://nhl.com/video/buf-mtl-metsa-scores-ppg-against-jacob-fowler-6395844617112"
+        }
+      ]
+    }
+  ]
 }
