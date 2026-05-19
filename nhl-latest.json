@@ -1,5 +1,117 @@
 {
-  "date": "2026-05-17",
-  "fetchedAt": "2026-05-18T17:50:42Z",
-  "games": []
+  "date": "2026-05-18",
+  "fetchedAt": "2026-05-19T16:52:49Z",
+  "games": [
+    {
+      "gameId": "2025030217",
+      "homeTeam": "BUF",
+      "awayTeam": "MTL",
+      "homeScore": 2,
+      "awayScore": 3,
+      "gameState": "OFF",
+      "periodType": "OT",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396012531112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "04:30",
+          "teamAbbrev": "MTL",
+          "scorer": "Phillip Danault",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Kaiden Guhle",
+            "Alexandre Texier"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "deflected",
+          "videoId": "6395991566112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395991566112",
+          "fallbackUrl": "https://nhl.com/video/mtl-buf-danault-scores-goal-against-ukko-pekka-luukkonen-6395991566112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "14:29",
+          "teamAbbrev": "MTL",
+          "scorer": "Zachary Bolduc",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Nick Suzuki",
+            "Lane Hutson"
+          ],
+          "homeScore": 0,
+          "awayScore": 2,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6395993773112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395993773112",
+          "fallbackUrl": "https://nhl.com/video/mtl-buf-bolduc-scores-ppg-against-ukko-pekka-luukkonen-6395993773112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "13:19",
+          "teamAbbrev": "BUF",
+          "scorer": "Jordan Greenway",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Mattias Samuelsson",
+            "Beck Malenstyn"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "deflected",
+          "videoId": "6395997021112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6395997021112",
+          "fallbackUrl": "https://nhl.com/video/mtl-buf-samuelsson-scores-goal-against-jakub-dobes-6395997021112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "06:27",
+          "teamAbbrev": "BUF",
+          "scorer": "Rasmus Dahlin",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Owen Power",
+            "Ryan McLeod"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6396008438112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396008438112",
+          "fallbackUrl": "https://nhl.com/video/mtl-buf-dahlin-scores-goal-against-jakub-dobes-6396008438112"
+        },
+        {
+          "period": 4,
+          "periodType": "OT",
+          "timeInPeriod": "11:22",
+          "teamAbbrev": "MTL",
+          "scorer": "Alex Newhook",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Alexandre Carrier"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6396013372112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396013372112",
+          "fallbackUrl": "https://nhl.com/video/mtl-buf-newhook-scores-goal-against-ukko-pekka-luukkonen-6396013372112"
+        }
+      ]
+    }
+  ]
 }
