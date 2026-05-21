@@ -1,5 +1,136 @@
 {
-  "date": "2026-05-19",
-  "fetchedAt": "2026-05-20T18:08:22Z",
-  "games": []
+  "date": "2026-05-20",
+  "fetchedAt": "2026-05-21T16:41:44Z",
+  "games": [
+    {
+      "gameId": "2025030321",
+      "homeTeam": "COL",
+      "awayTeam": "VGK",
+      "homeScore": 2,
+      "awayScore": 4,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396231554112",
+      "goals": [
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "12:29",
+          "teamAbbrev": "VGK",
+          "scorer": "Dylan Coghlan",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Brandon Saad",
+            "Colton Sissons"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6396223617112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396223617112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-coghlan-scores-goal-against-scott-wedgewood-6396223617112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "15:02",
+          "teamAbbrev": "VGK",
+          "scorer": "Pavel Dorofeyev",
+          "scorerSeasonTotal": 10,
+          "assists": [
+            "Mitch Marner",
+            "Tomas Hertl"
+          ],
+          "homeScore": 0,
+          "awayScore": 2,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6396225708112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396225708112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-dorofeyev-scores-ppg-against-scott-wedgewood-6396225708112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "01:34",
+          "teamAbbrev": "VGK",
+          "scorer": "Brett Howden",
+          "scorerSeasonTotal": 9,
+          "assists": [
+            "Ben Hutton"
+          ],
+          "homeScore": 0,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6396225756112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396225756112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-howden-scores-goal-against-scott-wedgewood-6396225756112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "05:53",
+          "teamAbbrev": "COL",
+          "scorer": "Valeri Nichushkin",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Ross Colton"
+          ],
+          "homeScore": 1,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "between-legs",
+          "videoId": "6396227167112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396227167112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-nichushkin-scores-goal-against-carter-hart-6396227167112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "17:39",
+          "teamAbbrev": "COL",
+          "scorer": "Gabriel Landeskog",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Nathan MacKinnon",
+            "Devon Toews"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6396229364112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396229364112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-landeskog-scores-ppg-against-carter-hart-6396229364112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "19:15",
+          "teamAbbrev": "VGK",
+          "scorer": "Nic Dowd",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Jack Eichel",
+            "Rasmus Andersson"
+          ],
+          "homeScore": 2,
+          "awayScore": 4,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6396229059112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396229059112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-dowd-scores-empty-net-goal-6396229059112"
+        }
+      ]
+    }
+  ]
 }
