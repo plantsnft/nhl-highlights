@@ -1,173 +1,95 @@
 {
-  "date": "2026-05-21",
-  "fetchedAt": "2026-05-22T17:43:24Z",
+  "date": "2026-05-22",
+  "fetchedAt": "2026-05-23T15:08:14Z",
   "games": [
     {
-      "gameId": "2025030311",
-      "homeTeam": "CAR",
-      "awayTeam": "MTL",
-      "homeScore": 2,
-      "awayScore": 6,
+      "gameId": "2025030322",
+      "homeTeam": "COL",
+      "awayTeam": "VGK",
+      "homeScore": 1,
+      "awayScore": 3,
       "gameState": "OFF",
       "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396321344112",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396408368112",
       "goals": [
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "00:33",
-          "teamAbbrev": "CAR",
-          "scorer": "Seth Jarvis",
+          "timeInPeriod": "16:59",
+          "teamAbbrev": "COL",
+          "scorer": "Ross Colton",
           "scorerSeasonTotal": 2,
           "assists": [
-            "Andrei Svechnikov",
-            "Sebastian Aho"
+            "Brent Burns",
+            "Nazem Kadri"
           ],
           "homeScore": 1,
           "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396310776112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396310776112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-jarvis-scores-goal-against-jakub-dobes-6396310776112"
+          "shotType": "wrist",
+          "videoId": "6396400718112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396400718112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-colton-scores-goal-against-carter-hart-6396400718112"
         },
         {
-          "period": 1,
+          "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "01:00",
-          "teamAbbrev": "MTL",
-          "scorer": "Cole Caufield",
-          "scorerSeasonTotal": 5,
+          "timeInPeriod": "09:15",
+          "teamAbbrev": "VGK",
+          "scorer": "Jack Eichel",
+          "scorerSeasonTotal": 2,
           "assists": [
-            "Juraj Slafkovský",
-            "Nick Suzuki"
+            "Pavel Dorofeyev",
+            "Ivan Barbashev"
           ],
           "homeScore": 1,
           "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6396311483112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396311483112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-caufield-scores-goal-against-frederik-andersen-6396311483112"
+          "videoId": "6396405742112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396405742112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-eichel-scores-goal-against-scott-wedgewood-6396405742112"
         },
         {
-          "period": 1,
+          "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "04:04",
-          "teamAbbrev": "MTL",
-          "scorer": "Phillip Danault",
-          "scorerSeasonTotal": 2,
+          "timeInPeriod": "11:22",
+          "teamAbbrev": "VGK",
+          "scorer": "Ivan Barbashev",
+          "scorerSeasonTotal": 4,
           "assists": [
-            "Alexandre Carrier"
+            "Jack Eichel",
+            "Pavel Dorofeyev"
           ],
           "homeScore": 1,
           "awayScore": 2,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396312748112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396312748112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-danault-scores-goal-against-frederik-andersen-6396312748112"
+          "shotType": "wrist",
+          "videoId": "6396406836112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396406836112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-barbashev-scores-goal-against-scott-wedgewood-6396406836112"
         },
         {
-          "period": 1,
+          "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "08:11",
-          "teamAbbrev": "MTL",
-          "scorer": "Alexandre Texier",
-          "scorerSeasonTotal": 4,
+          "timeInPeriod": "18:57",
+          "teamAbbrev": "VGK",
+          "scorer": "Ivan Barbashev",
+          "scorerSeasonTotal": 5,
           "assists": [
-            "Phillip Danault",
-            "Kaiden Guhle"
+            "Rasmus Andersson"
           ],
           "homeScore": 1,
           "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396311086112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396311086112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-texier-scores-goal-against-frederik-andersen-6396311086112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "11:32",
-          "teamAbbrev": "MTL",
-          "scorer": "Ivan Demidov",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Alex Newhook",
-            "Jake Evans"
-          ],
-          "homeScore": 1,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396313540112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396313540112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-demidov-scores-goal-against-frederik-andersen-6396313540112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "02:46",
-          "teamAbbrev": "CAR",
-          "scorer": "Eric Robinson",
-          "scorerSeasonTotal": 1,
-          "assists": [
-            "William Carrier"
-          ],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396314519112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396314519112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-robinson-scores-goal-against-jakub-dobes-6396314519112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "07:05",
-          "teamAbbrev": "MTL",
-          "scorer": "Juraj Slafkovský",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Nick Suzuki",
-            "Cole Caufield"
-          ],
-          "homeScore": 2,
-          "awayScore": 5,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396319330112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396319330112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-slafkovsky-scores-goal-against-frederik-andersen-6396319330112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "17:32",
-          "teamAbbrev": "MTL",
-          "scorer": "Juraj Slafkovský",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Nick Suzuki"
-          ],
-          "homeScore": 2,
-          "awayScore": 6,
           "strength": "EN",
           "emptyNet": true,
           "shotType": "wrist",
-          "videoId": "6396321121112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396321121112",
-          "fallbackUrl": "https://nhl.com/video/mtl-car-slafkovsky-scores-empty-net-goal-6396321121112"
+          "videoId": "6396409713112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396409713112",
+          "fallbackUrl": "https://nhl.com/video/vgk-col-barbashev-scores-empty-net-goal-6396409713112"
         }
       ]
     }
