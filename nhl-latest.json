@@ -1,95 +1,116 @@
 {
-  "date": "2026-05-22",
-  "fetchedAt": "2026-05-23T16:46:12Z",
+  "date": "2026-05-23",
+  "fetchedAt": "2026-05-24T15:11:20Z",
   "games": [
     {
-      "gameId": "2025030322",
-      "homeTeam": "COL",
-      "awayTeam": "VGK",
-      "homeScore": 1,
-      "awayScore": 3,
+      "gameId": "2025030312",
+      "homeTeam": "CAR",
+      "awayTeam": "MTL",
+      "homeScore": 3,
+      "awayScore": 2,
       "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396408368112",
+      "periodType": "OT",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396475143112",
       "goals": [
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "16:59",
-          "teamAbbrev": "COL",
-          "scorer": "Ross Colton",
+          "timeInPeriod": "02:33",
+          "teamAbbrev": "CAR",
+          "scorer": "Eric Robinson",
           "scorerSeasonTotal": 2,
           "assists": [
-            "Brent Burns",
-            "Nazem Kadri"
+            "William Carrier",
+            "Mark Jankowski"
           ],
           "homeScore": 1,
           "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396400718112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396400718112",
-          "fallbackUrl": "https://nhl.com/video/vgk-col-colton-scores-goal-against-carter-hart-6396400718112"
+          "shotType": "tip-in",
+          "videoId": "6396467072112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396467072112",
+          "fallbackUrl": "https://nhl.com/video/mtl-car-robinson-scores-goal-against-jakub-dobes-6396467072112"
         },
         {
-          "period": 3,
+          "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "09:15",
-          "teamAbbrev": "VGK",
-          "scorer": "Jack Eichel",
-          "scorerSeasonTotal": 2,
+          "timeInPeriod": "11:11",
+          "teamAbbrev": "MTL",
+          "scorer": "Josh Anderson",
+          "scorerSeasonTotal": 4,
           "assists": [
-            "Pavel Dorofeyev",
-            "Ivan Barbashev"
+            "Phillip Danault",
+            "Kaiden Guhle"
           ],
           "homeScore": 1,
           "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396405742112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396405742112",
-          "fallbackUrl": "https://nhl.com/video/vgk-col-eichel-scores-goal-against-scott-wedgewood-6396405742112"
+          "shotType": "snap",
+          "videoId": "6396466907112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396466907112",
+          "fallbackUrl": "https://nhl.com/video/mtl-car-anderson-scores-goal-against-frederik-andersen-6396466907112"
         },
         {
-          "period": 3,
+          "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "11:22",
-          "teamAbbrev": "VGK",
-          "scorer": "Ivan Barbashev",
-          "scorerSeasonTotal": 4,
+          "timeInPeriod": "17:03",
+          "teamAbbrev": "CAR",
+          "scorer": "Nikolaj Ehlers",
+          "scorerSeasonTotal": 3,
           "assists": [
-            "Jack Eichel",
-            "Pavel Dorofeyev"
+            "Jaccob Slavin",
+            "Jalen Chatfield"
           ],
-          "homeScore": 1,
-          "awayScore": 2,
+          "homeScore": 2,
+          "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6396406836112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396406836112",
-          "fallbackUrl": "https://nhl.com/video/vgk-col-barbashev-scores-goal-against-scott-wedgewood-6396406836112"
+          "videoId": "6396469066112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396469066112",
+          "fallbackUrl": "https://nhl.com/video/mtl-car-ehlers-scores-goal-against-jakub-dobes-6396469066112"
         },
         {
           "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "18:57",
-          "teamAbbrev": "VGK",
-          "scorer": "Ivan Barbashev",
+          "timeInPeriod": "12:51",
+          "teamAbbrev": "MTL",
+          "scorer": "Josh Anderson",
           "scorerSeasonTotal": 5,
           "assists": [
-            "Rasmus Andersson"
+            "Alexandre Carrier",
+            "Phillip Danault"
           ],
-          "homeScore": 1,
-          "awayScore": 3,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6396409713112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396409713112",
-          "fallbackUrl": "https://nhl.com/video/vgk-col-barbashev-scores-empty-net-goal-6396409713112"
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6396472652112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396472652112",
+          "fallbackUrl": "https://nhl.com/video/mtl-car-anderson-scores-goal-against-frederik-andersen-6396472652112"
+        },
+        {
+          "period": 4,
+          "periodType": "OT",
+          "timeInPeriod": "03:29",
+          "teamAbbrev": "CAR",
+          "scorer": "Nikolaj Ehlers",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Mark Jankowski",
+            "Jalen Chatfield"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6396474654112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396474654112",
+          "fallbackUrl": "https://nhl.com/video/mtl-car-ehlers-scores-goal-against-jakub-dobes-6396474654112"
         }
       ]
     }
