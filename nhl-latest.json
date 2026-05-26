@@ -1,175 +1,115 @@
 {
-  "date": "2026-05-24",
-  "fetchedAt": "2026-05-25T17:27:00Z",
+  "date": "2026-05-25",
+  "fetchedAt": "2026-05-26T17:30:00Z",
   "games": [
     {
-      "gameId": "2025030323",
-      "homeTeam": "VGK",
-      "awayTeam": "COL",
-      "homeScore": 5,
+      "gameId": "2025030313",
+      "homeTeam": "MTL",
+      "awayTeam": "CAR",
+      "homeScore": 2,
       "awayScore": 3,
       "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396543460112",
+      "periodType": "OT",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396619645112",
       "goals": [
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "03:21",
-          "teamAbbrev": "COL",
-          "scorer": "Gabriel Landeskog",
-          "scorerSeasonTotal": 5,
+          "timeInPeriod": "08:24",
+          "teamAbbrev": "CAR",
+          "scorer": "Shayne Gostisbehere",
+          "scorerSeasonTotal": 1,
           "assists": [
-            "Devon Toews",
-            "Nathan MacKinnon"
+            "Mark Jankowski",
+            "Eric Robinson"
           ],
           "homeScore": 0,
           "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396534712112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396534712112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-landeskog-scores-goal-against-carter-hart-6396534712112"
+          "shotType": "snap",
+          "videoId": "6396609075112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609075112",
+          "fallbackUrl": "https://nhl.com/video/car-mtl-gostisbehere-scores-goal-against-jakub-dobes-6396609075112"
         },
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "07:03",
-          "teamAbbrev": "COL",
-          "scorer": "Nazem Kadri",
-          "scorerSeasonTotal": 3,
+          "timeInPeriod": "15:28",
+          "teamAbbrev": "MTL",
+          "scorer": "Mike Matheson",
+          "scorerSeasonTotal": 2,
           "assists": [
-            "Martin Necas",
-            "Josh Manson"
+            "Ivan Demidov",
+            "Jake Evans"
           ],
-          "homeScore": 0,
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6396609120112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609120112",
+          "fallbackUrl": "https://nhl.com/video/car-mtl-matheson-scores-goal-against-frederik-andersen-6396609120112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "16:22",
+          "teamAbbrev": "CAR",
+          "scorer": "Taylor Hall",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "K'Andre Miller",
+            "Jackson Blake"
+          ],
+          "homeScore": 1,
           "awayScore": 2,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396536968112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396536968112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-kadri-scores-goal-against-carter-hart-6396536968112"
+          "shotType": "snap",
+          "videoId": "6396609219112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609219112",
+          "fallbackUrl": "https://nhl.com/video/car-mtl-hall-scores-goal-against-jakub-dobes-6396609219112"
         },
         {
-          "period": 1,
+          "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "13:15",
-          "teamAbbrev": "COL",
-          "scorer": "Jack Drury",
+          "timeInPeriod": "04:43",
+          "teamAbbrev": "MTL",
+          "scorer": "Lane Hutson",
           "scorerSeasonTotal": 3,
           "assists": [
-            "Parker Kelly",
-            "Devon Toews"
+            "Cole Caufield",
+            "Jakub Dobes"
           ],
-          "homeScore": 0,
-          "awayScore": 3,
-          "strength": "SH",
-          "emptyNet": false,
-          "shotType": "backhand",
-          "videoId": "6396535529112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396535529112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-drury-scores-shg-against-carter-hart-6396535529112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "00:19",
-          "teamAbbrev": "VGK",
-          "scorer": "Mark Stone",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Mitch Marner",
-            "Tomas Hertl"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
+          "homeScore": 2,
+          "awayScore": 2,
           "strength": "PP",
           "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6396537753112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396537753112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-stone-scores-ppg-against-scott-wedgewood-6396537753112"
+          "shotType": "snap",
+          "videoId": "6396610374112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396610374112",
+          "fallbackUrl": "https://nhl.com/video/car-mtl-hutson-scores-ppg-against-frederik-andersen-6396610374112"
         },
         {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "04:05",
-          "teamAbbrev": "VGK",
-          "scorer": "William Karlsson",
-          "scorerSeasonTotal": 1,
+          "period": 4,
+          "periodType": "OT",
+          "timeInPeriod": "14:06",
+          "teamAbbrev": "CAR",
+          "scorer": "Andrei Svechnikov",
+          "scorerSeasonTotal": 2,
           "assists": [
-            "Mitch Marner"
+            "Seth Jarvis"
           ],
           "homeScore": 2,
           "awayScore": 3,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "snap",
-          "videoId": "6396538838112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396538838112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-karlsson-scores-goal-against-scott-wedgewood-6396538838112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "12:46",
-          "teamAbbrev": "VGK",
-          "scorer": "Keegan Kolesar",
-          "scorerSeasonTotal": 1,
-          "assists": [
-            "Dylan Coghlan",
-            "Kaedan Korczak"
-          ],
-          "homeScore": 3,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "backhand",
-          "videoId": "6396540515112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396540515112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-kolesar-scores-goal-against-scott-wedgewood-6396540515112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "08:21",
-          "teamAbbrev": "VGK",
-          "scorer": "Tomas Hertl",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Mark Stone",
-            "Kaedan Korczak"
-          ],
-          "homeScore": 4,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "backhand",
-          "videoId": "6396543035112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396543035112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-hertl-scores-goal-against-scott-wedgewood-6396543035112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "19:01",
-          "teamAbbrev": "VGK",
-          "scorer": "Brett Howden",
-          "scorerSeasonTotal": 10,
-          "assists": [
-            "William Karlsson",
-            "Shea Theodore"
-          ],
-          "homeScore": 5,
-          "awayScore": 3,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6396544524112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396544524112",
-          "fallbackUrl": "https://nhl.com/video/col-vgk-howden-scores-empty-net-goal-6396544524112"
+          "videoId": "6396620314112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396620314112",
+          "fallbackUrl": "https://nhl.com/video/car-mtl-aho-scores-goal-against-jakub-dobes-6396620314112"
         }
       ]
     }
