@@ -1,115 +1,76 @@
 {
-  "date": "2026-05-25",
-  "fetchedAt": "2026-05-26T18:15:08Z",
+  "date": "2026-05-26",
+  "fetchedAt": "2026-05-27T17:25:36Z",
   "games": [
     {
-      "gameId": "2025030313",
-      "homeTeam": "MTL",
-      "awayTeam": "CAR",
+      "gameId": "2025030324",
+      "homeTeam": "VGK",
+      "awayTeam": "COL",
       "homeScore": 2,
-      "awayScore": 3,
+      "awayScore": 1,
       "gameState": "OFF",
-      "periodType": "OT",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396619645112",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396725459112",
       "goals": [
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "08:24",
-          "teamAbbrev": "CAR",
-          "scorer": "Shayne Gostisbehere",
-          "scorerSeasonTotal": 1,
+          "timeInPeriod": "04:42",
+          "teamAbbrev": "VGK",
+          "scorer": "Mark Stone",
+          "scorerSeasonTotal": 5,
           "assists": [
-            "Mark Jankowski",
-            "Eric Robinson"
-          ],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396609075112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609075112",
-          "fallbackUrl": "https://nhl.com/video/car-mtl-gostisbehere-scores-goal-against-jakub-dobes-6396609075112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "15:28",
-          "teamAbbrev": "MTL",
-          "scorer": "Mike Matheson",
-          "scorerSeasonTotal": 2,
-          "assists": [
-            "Ivan Demidov",
-            "Jake Evans"
+            "Brayden McNabb",
+            "Shea Theodore"
           ],
           "homeScore": 1,
-          "awayScore": 1,
+          "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396609120112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609120112",
-          "fallbackUrl": "https://nhl.com/video/car-mtl-matheson-scores-goal-against-frederik-andersen-6396609120112"
+          "shotType": "wrist",
+          "videoId": "6396703374112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396703374112",
+          "fallbackUrl": "https://nhl.com/video/col-vgk-stone-scores-goal-against-mackenzie-blackwood-6396703374112"
         },
         {
-          "period": 1,
+          "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "16:22",
-          "teamAbbrev": "CAR",
-          "scorer": "Taylor Hall",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "K'Andre Miller",
-            "Jackson Blake"
-          ],
-          "homeScore": 1,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396609219112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396609219112",
-          "fallbackUrl": "https://nhl.com/video/car-mtl-hall-scores-goal-against-jakub-dobes-6396609219112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "04:43",
-          "teamAbbrev": "MTL",
-          "scorer": "Lane Hutson",
+          "timeInPeriod": "14:15",
+          "teamAbbrev": "VGK",
+          "scorer": "Cole Smith",
           "scorerSeasonTotal": 3,
           "assists": [
-            "Cole Caufield",
-            "Jakub Dobes"
+            "Dylan Coghlan",
+            "Nic Dowd"
           ],
           "homeScore": 2,
-          "awayScore": 2,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396610374112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396610374112",
-          "fallbackUrl": "https://nhl.com/video/car-mtl-hutson-scores-ppg-against-frederik-andersen-6396610374112"
-        },
-        {
-          "period": 4,
-          "periodType": "OT",
-          "timeInPeriod": "14:06",
-          "teamAbbrev": "CAR",
-          "scorer": "Andrei Svechnikov",
-          "scorerSeasonTotal": 2,
-          "assists": [
-            "Seth Jarvis"
-          ],
-          "homeScore": 2,
-          "awayScore": 3,
+          "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6396620314112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396620314112",
-          "fallbackUrl": "https://nhl.com/video/car-mtl-aho-scores-goal-against-jakub-dobes-6396620314112"
+          "shotType": "tip-in",
+          "videoId": "6396715223112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396715223112",
+          "fallbackUrl": "https://nhl.com/video/col-vgk-smith-scores-goal-against-mackenzie-blackwood-6396715223112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "17:57",
+          "teamAbbrev": "COL",
+          "scorer": "Gabriel Landeskog",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Martin Necas",
+            "Nazem Kadri"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6396717646112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6396717646112",
+          "fallbackUrl": "https://nhl.com/video/col-vgk-landeskog-scores-goal-against-carter-hart-6396717646112"
         }
       ]
     }
