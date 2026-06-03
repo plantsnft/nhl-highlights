@@ -1,5 +1,193 @@
 {
-  "date": "2026-06-01",
-  "fetchedAt": "2026-06-02T19:34:40Z",
-  "games": []
+  "date": "2026-06-02",
+  "fetchedAt": "2026-06-03T18:25:31Z",
+  "games": [
+    {
+      "gameId": "2025030411",
+      "homeTeam": "CAR",
+      "awayTeam": "VGK",
+      "homeScore": 4,
+      "awayScore": 5,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397375861112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "00:25",
+          "teamAbbrev": "CAR",
+          "scorer": "Nikolaj Ehlers",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Jaccob Slavin",
+            "Jalen Chatfield"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397360131112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397360131112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-ehlers-scores-goal-against-carter-hart-6397360131112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "12:08",
+          "teamAbbrev": "CAR",
+          "scorer": "Nikolaj Ehlers",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Jalen Chatfield"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6397360079112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397360079112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-ehlers-scores-goal-against-carter-hart-6397360079112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "13:28",
+          "teamAbbrev": "VGK",
+          "scorer": "Shea Theodore",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Brayden McNabb",
+            "Cole Smith"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6397360297112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397360297112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-theodore-scores-goal-against-frederik-andersen-6397360297112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "00:30",
+          "teamAbbrev": "VGK",
+          "scorer": "Ivan Barbashev",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Jack Eichel",
+            "Brayden McNabb"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397363014112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397363014112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-barbashev-scores-goal-against-frederik-andersen-6397363014112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "04:35",
+          "teamAbbrev": "VGK",
+          "scorer": "William Karlsson",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Mitch Marner",
+            "Brett Howden"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397365965112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397365965112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-karlsson-scores-goal-against-frederik-andersen-6397365965112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "12:42",
+          "teamAbbrev": "CAR",
+          "scorer": "Jordan Staal",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "K'Andre Miller"
+          ],
+          "homeScore": 3,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397365139112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397365139112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-staal-scores-goal-against-carter-hart-6397365139112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "01:21",
+          "teamAbbrev": "VGK",
+          "scorer": "Brett Howden",
+          "scorerSeasonTotal": 11,
+          "assists": [
+            "Shea Theodore",
+            "Brayden McNabb"
+          ],
+          "homeScore": 3,
+          "awayScore": 4,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6397368555112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397368555112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-howden-scores-goal-against-frederik-andersen-6397368555112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "11:19",
+          "teamAbbrev": "CAR",
+          "scorer": "Shayne Gostisbehere",
+          "scorerSeasonTotal": 3,
+          "assists": [],
+          "homeScore": 4,
+          "awayScore": 4,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397371871112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397371871112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-gostisbehere-scores-goal-against-carter-hart-6397371871112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "16:36",
+          "teamAbbrev": "VGK",
+          "scorer": "Tomas Hertl",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Colton Sissons",
+            "Shea Theodore"
+          ],
+          "homeScore": 4,
+          "awayScore": 5,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6397373115112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6397373115112",
+          "fallbackUrl": "https://nhl.com/video/vgk-car-hertl-scores-goal-against-frederik-andersen-6397373115112"
+        }
+      ]
+    }
+  ]
 }
