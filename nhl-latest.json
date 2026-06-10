@@ -1,5 +1,174 @@
 {
-  "date": "2026-06-08",
-  "fetchedAt": "2026-06-09T17:50:30Z",
-  "games": []
+  "date": "2026-06-09",
+  "fetchedAt": "2026-06-10T17:26:35Z",
+  "games": [
+    {
+      "gameId": "2025030414",
+      "homeTeam": "VGK",
+      "awayTeam": "CAR",
+      "homeScore": 3,
+      "awayScore": 5,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398034433112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "01:06",
+          "teamAbbrev": "CAR",
+          "scorer": "Logan Stankoven",
+          "scorerSeasonTotal": 11,
+          "assists": [
+            "Jalen Chatfield",
+            "Jackson Blake"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6398023402112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398023402112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-stankoven-scores-goal-against-carter-hart-6398023402112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "03:28",
+          "teamAbbrev": "CAR",
+          "scorer": "Jackson Blake",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Taylor Hall",
+            "Nikolaj Ehlers"
+          ],
+          "homeScore": 0,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6398024183112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398024183112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-blake-scores-goal-against-carter-hart-6398024183112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "07:22",
+          "teamAbbrev": "VGK",
+          "scorer": "Mark Stone",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Shea Theodore",
+            "Brayden McNabb"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6398024290112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398024290112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-stone-scores-goal-against-brandon-bussi-6398024290112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "12:48",
+          "teamAbbrev": "CAR",
+          "scorer": "Jordan Staal",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Shayne Gostisbehere",
+            "Sebastian Aho"
+          ],
+          "homeScore": 1,
+          "awayScore": 3,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6398022859112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398022859112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-staal-scores-ppg-against-carter-hart-6398022859112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "04:22",
+          "teamAbbrev": "VGK",
+          "scorer": "William Karlsson",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Rasmus Andersson",
+            "Mitch Marner"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6398026272112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398026272112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-karlsson-scores-goal-against-brandon-bussi-6398026272112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "17:08",
+          "teamAbbrev": "VGK",
+          "scorer": "Brett Howden",
+          "scorerSeasonTotal": 14,
+          "assists": [
+            "Colton Sissons",
+            "William Karlsson"
+          ],
+          "homeScore": 3,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6398028367112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398028367112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-howden-scores-goal-against-brandon-bussi-6398028367112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "06:32",
+          "teamAbbrev": "CAR",
+          "scorer": "Jordan Staal",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Nikolaj Ehlers"
+          ],
+          "homeScore": 3,
+          "awayScore": 4,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6398034086112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398034086112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-staal-scores-goal-against-carter-hart-6398034086112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "19:05",
+          "teamAbbrev": "CAR",
+          "scorer": "Nikolaj Ehlers",
+          "scorerSeasonTotal": 7,
+          "assists": [],
+          "homeScore": 3,
+          "awayScore": 5,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6398033953112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6398033953112",
+          "fallbackUrl": "https://nhl.com/video/car-vgk-ehlers-scores-empty-net-goal-6398033953112"
+        }
+      ]
+    }
+  ]
 }
