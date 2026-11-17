@@ -1,693 +1,205 @@
 {
-  "date": "2026-11-15",
-  "fetchedAt": "2026-11-16T23:52:59Z",
+  "date": "2026-11-16",
+  "fetchedAt": "2026-11-17T22:07:35Z",
   "games": [
     {
-      "gameId": "2026020326",
-      "homeTeam": "PHI",
-      "awayTeam": "EDM",
-      "homeScore": 2,
-      "awayScore": 5,
-      "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408433643112",
-      "goals": [
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "08:08",
-          "teamAbbrev": "EDM",
-          "scorer": "Leon Draisaitl",
-          "scorerSeasonTotal": 19,
-          "assists": [
-            "Connor McDavid",
-            "Evan Bouchard"
-          ],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408428819112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408428819112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-draisaitl-scores-ppg-against-dan-vladar-6408428819112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "13:22",
-          "teamAbbrev": "EDM",
-          "scorer": "Vasily Podkolzin",
-          "scorerSeasonTotal": 10,
-          "assists": [],
-          "homeScore": 0,
-          "awayScore": 2,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": null,
-          "videoId": "6408429915112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408429915112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-podkolzin-scores-ppg-against-dan-vladar-6408429915112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "18:32",
-          "teamAbbrev": "EDM",
-          "scorer": "Zach Hyman",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Connor McDavid",
-            "Evan Bouchard"
-          ],
-          "homeScore": 0,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408429724112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408429724112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-hyman-scores-goal-against-dan-vladar-6408429724112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "12:13",
-          "teamAbbrev": "PHI",
-          "scorer": "Cole Knuble",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Cam York",
-            "Owen Tippett"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408431228112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431228112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-knuble-scores-goal-against-tristan-jarry-6408431228112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "17:12",
-          "teamAbbrev": "PHI",
-          "scorer": "Noah Cates",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Matvei Michkov",
-            "Rasmus Ristolainen"
-          ],
-          "homeScore": 2,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408430834112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430834112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-cates-scores-goal-against-tristan-jarry-6408430834112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "01:07",
-          "teamAbbrev": "EDM",
-          "scorer": "Leon Draisaitl",
-          "scorerSeasonTotal": 20,
-          "assists": [],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408431940112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431940112",
-          "fallbackUrl": "https://nhl.com/video/edm-phi-draisaitl-scores-goal-against-dan-vladar-6408431940112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "18:52",
-          "teamAbbrev": "EDM",
-          "scorer": "Connor McDavid",
-          "scorerSeasonTotal": 12,
-          "assists": [
-            "Ryan Shea",
-            "Leon Draisaitl"
-          ],
-          "homeScore": 2,
-          "awayScore": 5,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6408431787112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431787112",
-          "fallbackUrl": "https://nhl.com/video/connor-mcdavid-with-a-goal-vs-philadelphia-flyers-6408431787112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020327",
-      "homeTeam": "DAL",
-      "awayTeam": "FLA",
-      "homeScore": 2,
-      "awayScore": 1,
-      "gameState": "OFF",
-      "periodType": "OT",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434552112",
-      "goals": [
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "04:27",
-          "teamAbbrev": "FLA",
-          "scorer": "Matthew Tkachuk",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Sam Reinhart",
-            "Seth Jones"
-          ],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408429681112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408429681112",
-          "fallbackUrl": "https://nhl.com/video/fla-dal-tkachuk-scores-ppg-against-casey-desmith-6408429681112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "09:19",
-          "teamAbbrev": "DAL",
-          "scorer": "Wyatt Johnston",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Thomas Harley",
-            "Jason Robertson"
-          ],
-          "homeScore": 1,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408431622112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431622112",
-          "fallbackUrl": "https://nhl.com/video/fla-dal-johnston-scores-goal-against-akira-schmid-6408431622112"
-        },
-        {
-          "period": 4,
-          "periodType": "OT",
-          "timeInPeriod": "02:56",
-          "teamAbbrev": "DAL",
-          "scorer": "Jason Robertson",
-          "scorerSeasonTotal": 10,
-          "assists": [
-            "Roope Hintz"
-          ],
-          "homeScore": 2,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "backhand",
-          "videoId": "6408434265112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434265112",
-          "fallbackUrl": "https://nhl.com/video/fla-dal-robertson-scores-goal-against-akira-schmid-6408434265112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020328",
-      "homeTeam": "ANA",
-      "awayTeam": "CGY",
-      "homeScore": 6,
-      "awayScore": 1,
-      "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408433966112",
-      "goals": [
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "01:16",
-          "teamAbbrev": "ANA",
-          "scorer": "Jeff Malott",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Beckett Sennecke",
-            "Drew Helleson"
-          ],
-          "homeScore": 1,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408429810112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408429810112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-malott-scores-goal-against-devin-cooley-6408429810112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "13:24",
-          "teamAbbrev": "ANA",
-          "scorer": "Cutter Gauthier",
-          "scorerSeasonTotal": 18,
-          "assists": [
-            "Tyson Hinds",
-            "Judd Caulfield"
-          ],
-          "homeScore": 2,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408430321112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430321112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-gauthier-scores-goal-against-devin-cooley-6408430321112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "02:16",
-          "teamAbbrev": "ANA",
-          "scorer": "Tim Washe",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Alex Killorn",
-            "Tyson Hinds"
-          ],
-          "homeScore": 3,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408430595112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430595112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-washe-scores-goal-against-devin-cooley-6408430595112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "04:04",
-          "teamAbbrev": "CGY",
-          "scorer": "Mikael Backlund",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Matvei Gridin",
-            "Ryan Strome"
-          ],
-          "homeScore": 3,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408431893112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431893112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-backlund-scores-goal-against-ville-husso-6408431893112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "04:29",
-          "teamAbbrev": "ANA",
-          "scorer": "Beckett Sennecke",
-          "scorerSeasonTotal": 11,
-          "assists": [
-            "Ian Moore",
-            "Mikael Granlund"
-          ],
-          "homeScore": 4,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408431285112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431285112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-sennecke-scores-goal-against-devin-cooley-6408431285112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "16:14",
-          "teamAbbrev": "ANA",
-          "scorer": "Beckett Sennecke",
-          "scorerSeasonTotal": 12,
-          "assists": [
-            "Alex Killorn"
-          ],
-          "homeScore": 5,
-          "awayScore": 1,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "backhand",
-          "videoId": "6408433255112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408433255112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-sennecke-scores-empty-net-goal-6408433255112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "17:06",
-          "teamAbbrev": "ANA",
-          "scorer": "Mikael Granlund",
-          "scorerSeasonTotal": 7,
-          "assists": [
-            "Pavel Mintyukov",
-            "Troy Terry"
-          ],
-          "homeScore": 6,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408432097112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408432097112",
-          "fallbackUrl": "https://nhl.com/video/cgy-ana-granlund-scores-goal-against-devin-cooley-6408432097112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020329",
-      "homeTeam": "VGK",
-      "awayTeam": "VAN",
+      "gameId": "2026020331",
+      "homeTeam": "NYR",
+      "awayTeam": "MTL",
       "homeScore": 3,
-      "awayScore": 6,
+      "awayScore": 1,
       "gameState": "OFF",
       "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408435807112",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408478745112",
       "goals": [
         {
-          "period": 1,
+          "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "05:20",
-          "teamAbbrev": "VAN",
-          "scorer": "Elias Pettersson",
-          "scorerSeasonTotal": 6,
+          "timeInPeriod": "07:59",
+          "teamAbbrev": "MTL",
+          "scorer": "Phillip Danault",
+          "scorerSeasonTotal": 3,
           "assists": [
-            "Jonathan Lekkerimäki",
-            "Brock Boeser"
+            "Lane Hutson",
+            "Noah Dobson"
           ],
           "homeScore": 0,
           "awayScore": 1,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408431248112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408431248112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-pettersson-scores-ppg-against-carter-hart-6408431248112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "09:49",
-          "teamAbbrev": "VAN",
-          "scorer": "Linus Karlsson",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Liam Ohgren",
-            "Tom Willander"
-          ],
-          "homeScore": 0,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408430359112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430359112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-karlsson-scores-goal-against-carter-hart-6408430359112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "13:30",
-          "teamAbbrev": "VGK",
-          "scorer": "Victor Olofsson",
-          "scorerSeasonTotal": 7,
-          "assists": [
-            "Tomas Hertl",
-            "Mitch Marner"
-          ],
-          "homeScore": 1,
-          "awayScore": 2,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408430287112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430287112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-olofsson-scores-ppg-against-leevi-merilainen-6408430287112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "17:36",
-          "teamAbbrev": "VAN",
-          "scorer": "Filip Chytil",
-          "scorerSeasonTotal": 1,
-          "assists": [
-            "Brock Boeser",
-            "Filip Hronek"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "tip-in",
-          "videoId": "6408430885112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408430885112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-chytil-scores-goal-against-carter-hart-6408430885112"
+          "videoId": "6408476888112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408476888112",
+          "fallbackUrl": "https://nhl.com/video/mtl-nyr-danault-scores-goal-against-joonas-korpisalo-6408476888112"
         },
         {
           "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "02:14",
-          "teamAbbrev": "VAN",
-          "scorer": "Filip Chytil",
-          "scorerSeasonTotal": 2,
+          "timeInPeriod": "09:47",
+          "teamAbbrev": "NYR",
+          "scorer": "Will Cuylle",
+          "scorerSeasonTotal": 5,
           "assists": [
-            "Jamie Oleksiak"
+            "Marcus Pettersson",
+            "J.T. Miller"
           ],
           "homeScore": 1,
-          "awayScore": 4,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "deflected",
+          "videoId": "6408477291112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408477291112",
+          "fallbackUrl": "https://nhl.com/video/mtl-nyr-cuylle-scores-goal-against-jacob-fowler-6408477291112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "19:03",
+          "teamAbbrev": "NYR",
+          "scorer": "Will Cuylle",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Adam Fox"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
           "strength": "SH",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408432198112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408432198112",
-          "fallbackUrl": "https://nhl.com/video/filip-chytil-with-a-shorthanded-goal-vs-vegas-golden-knights-6408432198112"
+          "videoId": "6408476815112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408476815112",
+          "fallbackUrl": "https://nhl.com/video/mtl-nyr-cuylle-scores-shg-against-jacob-fowler-6408476815112"
         },
         {
-          "period": 2,
+          "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "11:57",
-          "teamAbbrev": "VGK",
-          "scorer": "Braeden Bowman",
-          "scorerSeasonTotal": 5,
+          "timeInPeriod": "06:44",
+          "teamAbbrev": "NYR",
+          "scorer": "Scott Morrow",
+          "scorerSeasonTotal": 1,
           "assists": [
-            "William Karlsson",
-            "Dylan Coghlan"
+            "Noah Laba"
           ],
-          "homeScore": 2,
-          "awayScore": 4,
+          "homeScore": 3,
+          "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408433176112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408433176112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-bowman-scores-goal-against-leevi-merilainen-6408433176112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "01:24",
-          "teamAbbrev": "VGK",
-          "scorer": "Mark Stone",
-          "scorerSeasonTotal": 11,
-          "assists": [
-            "Jack Eichel",
-            "Mitch Marner"
-          ],
-          "homeScore": 3,
-          "awayScore": 4,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408434680112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434680112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-stone-scores-ppg-against-leevi-merilainen-6408434680112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "01:48",
-          "teamAbbrev": "VAN",
-          "scorer": "Drew O'Connor",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Brendan Gallagher",
-            "Max Sasson"
-          ],
-          "homeScore": 3,
-          "awayScore": 5,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408434097112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434097112",
-          "fallbackUrl": "https://nhl.com/video/van-vgk-o-connor-scores-goal-against-carter-hart-6408434097112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "17:49",
-          "teamAbbrev": "VAN",
-          "scorer": "Linus Karlsson",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Elias Pettersson"
-          ],
-          "homeScore": 3,
-          "awayScore": 6,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6408434712112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434712112",
-          "fallbackUrl": "https://nhl.com/video/linus-karlsson-with-a-goal-vs-vegas-golden-knights-6408434712112"
+          "videoId": "6408476057112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408476057112",
+          "fallbackUrl": "https://nhl.com/video/mtl-nyr-morrow-scores-goal-against-jacob-fowler-6408476057112"
         }
       ]
     },
     {
-      "gameId": "2026020330",
-      "homeTeam": "SJS",
-      "awayTeam": "NSH",
-      "homeScore": 4,
-      "awayScore": 2,
+      "gameId": "2026020332",
+      "homeTeam": "UTA",
+      "awayTeam": "VAN",
+      "homeScore": 2,
+      "awayScore": 3,
       "gameState": "OFF",
       "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434516112",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408483248112",
       "goals": [
         {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "12:25",
-          "teamAbbrev": "SJS",
-          "scorer": "Will Smith",
-          "scorerSeasonTotal": 8,
-          "assists": [
-            "Ivar Stenberg",
-            "Macklin Celebrini"
-          ],
-          "homeScore": 1,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408432326112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408432326112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-smith-scores-goal-against-juuse-saros-6408432326112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "16:10",
-          "teamAbbrev": "SJS",
-          "scorer": "Collin Graf",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Mason Marchment",
-            "Michael Misa"
-          ],
-          "homeScore": 2,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408432442112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408432442112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-graf-scores-goal-against-juuse-saros-6408432442112"
-        },
-        {
           "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "04:45",
-          "teamAbbrev": "SJS",
-          "scorer": "Ivar Stenberg",
-          "scorerSeasonTotal": 7,
+          "timeInPeriod": "15:05",
+          "teamAbbrev": "VAN",
+          "scorer": "Jake DeBrusk",
+          "scorerSeasonTotal": 6,
           "assists": [
-            "Will Smith",
-            "Macklin Celebrini"
+            "Brock Boeser",
+            "Jonathan Lekkerimäki"
           ],
-          "homeScore": 3,
-          "awayScore": 0,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408433438112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408433438112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-stenberg-scores-goal-against-juuse-saros-6408433438112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "17:43",
-          "teamAbbrev": "NSH",
-          "scorer": "Nils Hoglander",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Adam Wilsby"
-          ],
-          "homeScore": 3,
+          "homeScore": 0,
           "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408432897112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408432897112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-hoglander-scores-goal-against-alex-nedeljkovic-6408432897112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "07:40",
-          "teamAbbrev": "SJS",
-          "scorer": "Macklin Celebrini",
-          "scorerSeasonTotal": 9,
-          "assists": [
-            "Will Smith",
-            "Jacob Trouba"
-          ],
-          "homeScore": 4,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408434002112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434002112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-celebrini-scores-goal-against-juuse-saros-6408434002112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "16:35",
-          "teamAbbrev": "NSH",
-          "scorer": "Steven Stamkos",
-          "scorerSeasonTotal": 12,
-          "assists": [
-            "Filip Forsberg",
-            "Ryan O'Reilly"
-          ],
-          "homeScore": 4,
-          "awayScore": 2,
           "strength": "PP",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408434784112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408434784112",
-          "fallbackUrl": "https://nhl.com/video/nsh-sjs-stamkos-scores-ppg-against-alex-nedeljkovic-6408434784112"
+          "videoId": "6408479355112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408479355112",
+          "fallbackUrl": "https://nhl.com/video/van-uta-debrusk-scores-ppg-against-karel-vejmelka-6408479355112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "02:50",
+          "teamAbbrev": "UTA",
+          "scorer": "Vincent Trocheck",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Logan Cooley",
+            "Clayton Keller"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408482326112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408482326112",
+          "fallbackUrl": "https://nhl.com/video/van-uta-trocheck-scores-ppg-against-nikita-tolopilo-6408482326112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "04:40",
+          "teamAbbrev": "VAN",
+          "scorer": "Filip Chytil",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Brock Boeser"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrap-around",
+          "videoId": "6408481154112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408481154112",
+          "fallbackUrl": "https://nhl.com/video/van-uta-chytil-scores-goal-against-karel-vejmelka-6408481154112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "11:39",
+          "teamAbbrev": "UTA",
+          "scorer": "Barrett Hayton",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Kailer Yamamoto",
+            "Anders Lee"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408481284112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408481284112",
+          "fallbackUrl": "https://nhl.com/video/van-uta-hayton-scores-goal-against-nikita-tolopilo-6408481284112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "15:37",
+          "teamAbbrev": "VAN",
+          "scorer": "Brock Boeser",
+          "scorerSeasonTotal": 8,
+          "assists": [
+            "Jake DeBrusk",
+            "Jonathan Lekkerimäki"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408482646112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408482646112",
+          "fallbackUrl": "https://nhl.com/video/van-uta-boeser-scores-ppg-against-karel-vejmelka-6408482646112"
         }
       ]
     }
