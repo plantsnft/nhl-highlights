@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "fetchedAt": "2026-11-22T20:38:16Z",
+  "fetchedAt": "2026-11-22T21:22:02Z",
   "games": [
     {
       "gameId": "2026020359",
@@ -2360,6 +2360,155 @@
           "videoId": "6408725291112",
           "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408725291112",
           "fallbackUrl": "https://nhl.com/video/sea-sjs-winterton-scores-goal-against-alex-nedeljkovic-6408725291112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020373",
+      "homeTeam": "NYR",
+      "awayTeam": "CAR",
+      "homeScore": 2,
+      "awayScore": 5,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742154112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "13:00",
+          "teamAbbrev": "CAR",
+          "scorer": "Eric Robinson",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Jordan Staal"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "SH",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408739019112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739019112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-robinson-scores-shg-against-dylan-garand-6408739019112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "14:12",
+          "teamAbbrev": "NYR",
+          "scorer": "Mika Zibanejad",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Adam Fox",
+            "J.T. Miller"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6408738824112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408738824112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-zibanejad-scores-ppg-against-brandon-bussi-6408738824112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "13:13",
+          "teamAbbrev": "CAR",
+          "scorer": "Jackson Blake",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Taylor Hall",
+            "Logan Stankoven"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6408739651112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739651112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-blake-scores-goal-against-dylan-garand-6408739651112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "17:46",
+          "teamAbbrev": "CAR",
+          "scorer": "Alexander Nikishin",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Shayne Gostisbehere",
+            "Eric Robinson"
+          ],
+          "homeScore": 1,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408740433112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408740433112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-nikishin-scores-goal-against-dylan-garand-6408740433112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "18:27",
+          "teamAbbrev": "CAR",
+          "scorer": "Sean Walker",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Sebastian Aho",
+            "William Carrier"
+          ],
+          "homeScore": 1,
+          "awayScore": 4,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408739461112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739461112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-walker-scores-goal-against-dylan-garand-6408739461112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "15:13",
+          "teamAbbrev": "NYR",
+          "scorer": "J.T. Miller",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Adam Fox"
+          ],
+          "homeScore": 2,
+          "awayScore": 4,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408742419112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742419112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-miller-scores-ppg-against-brandon-bussi-6408742419112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "17:38",
+          "teamAbbrev": "CAR",
+          "scorer": "Jordan Martinook",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Seth Jarvis"
+          ],
+          "homeScore": 2,
+          "awayScore": 5,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6408742148112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742148112",
+          "fallbackUrl": "https://nhl.com/video/car-nyr-martinook-scores-empty-net-goal-6408742148112"
         }
       ]
     }
