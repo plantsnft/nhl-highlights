@@ -1,726 +1,778 @@
 {
-  "date": "2026-11-22",
-  "fetchedAt": "2026-11-24T02:39:13Z",
+  "date": "2026-11-23",
+  "fetchedAt": "2026-11-24T23:26:07Z",
   "games": [
     {
-      "gameId": "2026020373",
-      "homeTeam": "NYR",
-      "awayTeam": "CAR",
-      "homeScore": 2,
-      "awayScore": 5,
+      "gameId": "2026020378",
+      "homeTeam": "NJD",
+      "awayTeam": "CBJ",
+      "homeScore": 3,
+      "awayScore": 2,
       "gameState": "OFF",
       "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742154112",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408794146112",
       "goals": [
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "13:00",
-          "teamAbbrev": "CAR",
-          "scorer": "Eric Robinson",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Jordan Staal"
-          ],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "SH",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408739019112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739019112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-robinson-scores-shg-against-dylan-garand-6408739019112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "14:12",
-          "teamAbbrev": "NYR",
-          "scorer": "Mika Zibanejad",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Adam Fox",
-            "J.T. Miller"
-          ],
-          "homeScore": 1,
-          "awayScore": 1,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408738824112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408738824112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-zibanejad-scores-ppg-against-brandon-bussi-6408738824112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "13:13",
-          "teamAbbrev": "CAR",
-          "scorer": "Jackson Blake",
+          "timeInPeriod": "04:59",
+          "teamAbbrev": "NJD",
+          "scorer": "Timo Meier",
           "scorerSeasonTotal": 7,
           "assists": [
-            "Taylor Hall",
-            "Logan Stankoven"
-          ],
-          "homeScore": 1,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "backhand",
-          "videoId": "6408739651112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739651112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-blake-scores-goal-against-dylan-garand-6408739651112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "17:46",
-          "teamAbbrev": "CAR",
-          "scorer": "Alexander Nikishin",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Shayne Gostisbehere",
-            "Eric Robinson"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408740433112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408740433112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-nikishin-scores-goal-against-dylan-garand-6408740433112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "18:27",
-          "teamAbbrev": "CAR",
-          "scorer": "Sean Walker",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Sebastian Aho",
-            "William Carrier"
-          ],
-          "homeScore": 1,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408739461112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408739461112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-walker-scores-goal-against-dylan-garand-6408739461112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "15:13",
-          "teamAbbrev": "NYR",
-          "scorer": "J.T. Miller",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Adam Fox"
-          ],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408742419112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742419112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-miller-scores-ppg-against-brandon-bussi-6408742419112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "17:38",
-          "teamAbbrev": "CAR",
-          "scorer": "Jordan Martinook",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Seth Jarvis"
-          ],
-          "homeScore": 2,
-          "awayScore": 5,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6408742148112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408742148112",
-          "fallbackUrl": "https://nhl.com/video/car-nyr-martinook-scores-empty-net-goal-6408742148112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020374",
-      "homeTeam": "TBL",
-      "awayTeam": "BUF",
-      "homeScore": 2,
-      "awayScore": 6,
-      "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408747977112",
-      "goals": [
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "03:35",
-          "teamAbbrev": "BUF",
-          "scorer": "Jiri Kulich",
-          "scorerSeasonTotal": 4,
-          "assists": [],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408743676112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408743676112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-kulich-scores-goal-against-dennis-hildeby-6408743676112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "12:21",
-          "teamAbbrev": "TBL",
-          "scorer": "Nikita Kucherov",
-          "scorerSeasonTotal": 10,
-          "assists": [
-            "Jake Guentzel",
-            "John Carlson"
-          ],
-          "homeScore": 1,
-          "awayScore": 1,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408744061112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408744061112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-kucherov-scores-ppg-against-ukko-pekka-luukkonen-6408744061112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "01:22",
-          "teamAbbrev": "BUF",
-          "scorer": "Jack Quinn",
-          "scorerSeasonTotal": 13,
-          "assists": [
-            "Noah Ostlund",
-            "Conor Timmins"
-          ],
-          "homeScore": 1,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408745653112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408745653112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-quinn-scores-goal-against-dennis-hildeby-6408745653112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "11:05",
-          "teamAbbrev": "BUF",
-          "scorer": "Tage Thompson",
-          "scorerSeasonTotal": 16,
-          "assists": [
-            "Zach Benson",
-            "Rasmus Dahlin"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408746154112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746154112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-thompson-scores-ppg-against-dennis-hildeby-6408746154112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "16:17",
-          "teamAbbrev": "BUF",
-          "scorer": "Tage Thompson",
-          "scorerSeasonTotal": 17,
-          "assists": [
-            "Zach Benson"
-          ],
-          "homeScore": 1,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "snap",
-          "videoId": "6408746069112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746069112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-thompson-scores-goal-against-dennis-hildeby-6408746069112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "05:50",
-          "teamAbbrev": "TBL",
-          "scorer": "Gage Goncalves",
-          "scorerSeasonTotal": 1,
-          "assists": [
-            "Yanni Gourde",
-            "Erik Cernak"
-          ],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408747851112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408747851112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-goncalves-scores-goal-against-ukko-pekka-luukkonen-6408747851112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "06:50",
-          "teamAbbrev": "BUF",
-          "scorer": "Noah Ostlund",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Peyton Krebs",
-            "Owen Power"
-          ],
-          "homeScore": 2,
-          "awayScore": 5,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408746687112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746687112",
-          "fallbackUrl": "https://nhl.com/video/buf-tbl-ostlund-scores-goal-against-dennis-hildeby-6408746687112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "18:53",
-          "teamAbbrev": "BUF",
-          "scorer": "Zach Benson",
-          "scorerSeasonTotal": 4,
-          "assists": [
-            "Jiri Kulich"
-          ],
-          "homeScore": 2,
-          "awayScore": 6,
-          "strength": "EN",
-          "emptyNet": true,
-          "shotType": "wrist",
-          "videoId": "6408746110112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746110112",
-          "fallbackUrl": "https://nhl.com/video/zach-benson-with-a-goal-vs-tampa-bay-lightning-6408746110112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020375",
-      "homeTeam": "STL",
-      "awayTeam": "EDM",
-      "homeScore": 5,
-      "awayScore": 4,
-      "gameState": "OFF",
-      "periodType": "SO",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408751698112",
-      "goals": [
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "05:56",
-          "teamAbbrev": "EDM",
-          "scorer": "Kasperi Kapanen",
-          "scorerSeasonTotal": 7,
-          "assists": [
-            "Connor Murphy",
-            "Connor McDavid"
-          ],
-          "homeScore": 0,
-          "awayScore": 1,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408746785112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746785112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-kapanen-scores-goal-against-joel-hofer-6408746785112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "09:15",
-          "teamAbbrev": "EDM",
-          "scorer": "Leon Draisaitl",
-          "scorerSeasonTotal": 23,
-          "assists": [
-            "Vasily Podkolzin",
-            "Mathieu Joseph"
-          ],
-          "homeScore": 0,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408748084112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748084112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-draisaitl-scores-goal-against-joel-hofer-6408748084112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "17:44",
-          "teamAbbrev": "STL",
-          "scorer": "Dalibor Dvorsky",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Mason McTavish"
-          ],
-          "homeScore": 1,
-          "awayScore": 2,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408747613112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408747613112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-dvorsky-scores-goal-against-tristan-jarry-6408747613112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "18:29",
-          "teamAbbrev": "EDM",
-          "scorer": "Filip Hallander",
-          "scorerSeasonTotal": 2,
-          "assists": [
-            "Kasperi Kapanen",
-            "Evan Bouchard"
-          ],
-          "homeScore": 1,
-          "awayScore": 3,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408748490112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748490112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-hallander-scores-goal-against-joel-hofer-6408748490112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "04:40",
-          "teamAbbrev": "EDM",
-          "scorer": "Colton Dach",
-          "scorerSeasonTotal": 5,
-          "assists": [
-            "Jason Dickinson"
-          ],
-          "homeScore": 1,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408749396112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749396112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-dach-scores-goal-against-joel-hofer-6408749396112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "10:27",
-          "teamAbbrev": "STL",
-          "scorer": "Philip Broberg",
-          "scorerSeasonTotal": 7,
-          "assists": [
-            "Logan Mailloux",
-            "Jimmy Snuggerud"
-          ],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408749005112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749005112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-broberg-scores-goal-against-tristan-jarry-6408749005112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "15:12",
-          "teamAbbrev": "STL",
-          "scorer": "Pavel Buchnevich",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Jonatan Berggren"
-          ],
-          "homeScore": 3,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "bat",
-          "videoId": "6408749130112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749130112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-buchnevich-scores-goal-against-tristan-jarry-6408749130112"
-        },
-        {
-          "period": 3,
-          "periodType": "REG",
-          "timeInPeriod": "15:38",
-          "teamAbbrev": "STL",
-          "scorer": "Jimmy Snuggerud",
-          "scorerSeasonTotal": 14,
-          "assists": [
-            "Justin Barron",
-            "Robert Thomas"
-          ],
-          "homeScore": 4,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "deflected",
-          "videoId": "6408749631112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749631112",
-          "fallbackUrl": "https://nhl.com/video/edm-stl-snuggerud-scores-goal-against-tristan-jarry-6408749631112"
-        },
-        {
-          "period": 5,
-          "periodType": "SO",
-          "timeInPeriod": "00:00",
-          "teamAbbrev": "STL",
-          "scorer": "Mason McTavish",
-          "scorerSeasonTotal": 0,
-          "assists": [],
-          "homeScore": 5,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408751390112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408751390112",
-          "fallbackUrl": "https://nhl.com/video/mctavish-scores-shootout-winner-against-oilers-6408751390112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020376",
-      "homeTeam": "DAL",
-      "awayTeam": "PIT",
-      "homeScore": 1,
-      "awayScore": 0,
-      "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749632112",
-      "goals": [
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "12:44",
-          "teamAbbrev": "DAL",
-          "scorer": "Joel Kiviranta",
-          "scorerSeasonTotal": 3,
-          "assists": [
-            "Wyatt Johnston",
-            "Mikko Rantanen"
+            "Jack Hughes",
+            "Connor Brown"
           ],
           "homeScore": 1,
           "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408746935112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408746935112",
-          "fallbackUrl": "https://nhl.com/video/pit-dal-kiviranta-scores-goal-against-arturs-silovs-6408746935112"
-        }
-      ]
-    },
-    {
-      "gameId": "2026020377",
-      "homeTeam": "VAN",
-      "awayTeam": "CHI",
-      "homeScore": 3,
-      "awayScore": 6,
-      "gameState": "OFF",
-      "periodType": "REG",
-      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408751822112",
-      "goals": [
+          "shotType": "wrist",
+          "videoId": "6408787701112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408787701112",
+          "fallbackUrl": "https://nhl.com/video/cbj-njd-meier-scores-goal-against-cam-talbot-6408787701112"
+        },
         {
           "period": 1,
           "periodType": "REG",
-          "timeInPeriod": "00:35",
-          "teamAbbrev": "CHI",
-          "scorer": "Frank Nazar",
-          "scorerSeasonTotal": 12,
-          "assists": [],
-          "homeScore": 0,
+          "timeInPeriod": "08:12",
+          "teamAbbrev": "NJD",
+          "scorer": "Brenden Dillon",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Amadeus Lombardi"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408788021112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408788021112",
+          "fallbackUrl": "https://nhl.com/video/cbj-njd-dillon-scores-goal-against-cam-talbot-6408788021112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "17:19",
+          "teamAbbrev": "CBJ",
+          "scorer": "Charlie Coyle",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Zach Werenski"
+          ],
+          "homeScore": 2,
           "awayScore": 1,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408748178112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748178112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-nazar-scores-goal-against-nikita-tolopilo-6408748178112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "02:48",
-          "teamAbbrev": "CHI",
-          "scorer": "Tyler Bertuzzi",
-          "scorerSeasonTotal": 6,
-          "assists": [
-            "Roman Kantserov",
-            "Patrick Kane"
-          ],
-          "homeScore": 0,
-          "awayScore": 2,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408748290112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748290112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-bertuzzi-scores-ppg-against-nikita-tolopilo-6408748290112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "11:30",
-          "teamAbbrev": "CHI",
-          "scorer": "Roman Kantserov",
-          "scorerSeasonTotal": 11,
-          "assists": [
-            "Tyler Bertuzzi",
-            "Frank Nazar"
-          ],
-          "homeScore": 0,
-          "awayScore": 3,
-          "strength": "PP",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408748507112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748507112",
-          "fallbackUrl": "https://nhl.com/video/roman-kantserov-with-a-powerplay-goal-vs-vancouver-canucks-6408748507112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "12:44",
-          "teamAbbrev": "CHI",
-          "scorer": "Dominic Toninato",
-          "scorerSeasonTotal": 1,
-          "assists": [
-            "Jordan Greenway",
-            "Cole Smith"
-          ],
-          "homeScore": 0,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408749182112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749182112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-toninato-scores-goal-against-nikita-tolopilo-6408749182112"
-        },
-        {
-          "period": 1,
-          "periodType": "REG",
-          "timeInPeriod": "13:27",
-          "teamAbbrev": "VAN",
-          "scorer": "Zeev Buium",
-          "scorerSeasonTotal": 2,
-          "assists": [
-            "Arshdeep Bains",
-            "Jacob Quillan"
-          ],
-          "homeScore": 1,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "slap",
-          "videoId": "6408748815112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748815112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-buium-scores-goal-against-drew-commesso-6408748815112"
+          "videoId": "6408790096112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408790096112",
+          "fallbackUrl": "https://nhl.com/video/cbj-njd-coyle-scores-goal-against-connor-hellebuyck-6408790096112"
         },
         {
           "period": 2,
           "periodType": "REG",
-          "timeInPeriod": "06:39",
-          "teamAbbrev": "VAN",
-          "scorer": "Filip Chytil",
-          "scorerSeasonTotal": 4,
+          "timeInPeriod": "14:41",
+          "teamAbbrev": "NJD",
+          "scorer": "Connor Brown",
+          "scorerSeasonTotal": 7,
           "assists": [
-            "Paul Cotter"
-          ],
-          "homeScore": 2,
-          "awayScore": 4,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "wrist",
-          "videoId": "6408748850112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408748850112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-chytil-scores-goal-against-drew-commesso-6408748850112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "12:56",
-          "teamAbbrev": "CHI",
-          "scorer": "Roman Kantserov",
-          "scorerSeasonTotal": 12,
-          "assists": [
-            "Alex Vlasic",
-            "Ryan Donato"
-          ],
-          "homeScore": 2,
-          "awayScore": 5,
-          "strength": "EV",
-          "emptyNet": false,
-          "shotType": "tip-in",
-          "videoId": "6408750228112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408750228112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-kantserov-scores-goal-against-kevin-lankinen-6408750228112"
-        },
-        {
-          "period": 2,
-          "periodType": "REG",
-          "timeInPeriod": "16:56",
-          "teamAbbrev": "VAN",
-          "scorer": "Jake DeBrusk",
-          "scorerSeasonTotal": 8,
-          "assists": [
-            "Brock Boeser",
-            "Filip Hronek"
+            "Dougie Hamilton",
+            "Jonas Siegenthaler"
           ],
           "homeScore": 3,
-          "awayScore": 5,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408791356112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408791356112",
+          "fallbackUrl": "https://nhl.com/video/cbj-njd-brown-scores-goal-against-cam-talbot-6408791356112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "19:46",
+          "teamAbbrev": "CBJ",
+          "scorer": "Mikael Pyyhtia",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Damon Severson",
+            "Jack Williams"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "SH",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408792556112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792556112",
+          "fallbackUrl": "https://nhl.com/video/mikael-pyyhtia-with-a-shorthanded-goal-vs-new-jersey-devils-6408792556112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020379",
+      "homeTeam": "MTL",
+      "awayTeam": "LAK",
+      "homeScore": 1,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408796958112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "14:43",
+          "teamAbbrev": "LAK",
+          "scorer": "Alex Laferriere",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Quinton Byfield",
+            "Artemi Panarin"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "between-legs",
+          "videoId": "6408792437112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792437112",
+          "fallbackUrl": "https://nhl.com/video/lak-mtl-laferriere-scores-goal-against-jakub-dobes-6408792437112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "07:28",
+          "teamAbbrev": "MTL",
+          "scorer": "Alex Newhook",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Alexandre Texier",
+            "Dylan Larkin"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408792573112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792573112",
+          "fallbackUrl": "https://nhl.com/video/lak-mtl-newhook-scores-goal-against-darcy-kuemper-6408792573112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "14:57",
+          "teamAbbrev": "LAK",
+          "scorer": "Trevor Moore",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Erik Haula",
+            "Joel Armia"
+          ],
+          "homeScore": 1,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408794332112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408794332112",
+          "fallbackUrl": "https://nhl.com/video/lak-mtl-moore-scores-goal-against-jakub-dobes-6408794332112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020380",
+      "homeTeam": "OTT",
+      "awayTeam": "CGY",
+      "homeScore": 2,
+      "awayScore": 1,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408796372112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "12:16",
+          "teamAbbrev": "OTT",
+          "scorer": "Michael Amadio",
+          "scorerSeasonTotal": 8,
+          "assists": [],
+          "homeScore": 1,
+          "awayScore": 0,
           "strength": "EV",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408749455112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408749455112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-debrusk-scores-goal-against-drew-commesso-6408749455112"
+          "videoId": "6408792310112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792310112",
+          "fallbackUrl": "https://nhl.com/video/cgy-ott-amadio-scores-goal-against-devin-cooley-6408792310112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "17:37",
+          "teamAbbrev": "OTT",
+          "scorer": "Shane Pinto",
+          "scorerSeasonTotal": 10,
+          "assists": [
+            "Stephen Halliday"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408791045112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408791045112",
+          "fallbackUrl": "https://nhl.com/video/cgy-ott-pinto-scores-goal-against-devin-cooley-6408791045112"
         },
         {
           "period": 3,
           "periodType": "REG",
-          "timeInPeriod": "11:07",
-          "teamAbbrev": "CHI",
-          "scorer": "Roman Kantserov",
-          "scorerSeasonTotal": 13,
+          "timeInPeriod": "15:40",
+          "teamAbbrev": "CGY",
+          "scorer": "Matt Coronato",
+          "scorerSeasonTotal": 6,
           "assists": [
-            "Tyler Bertuzzi",
-            "Patrick Kane"
+            "Joel Farabee",
+            "Simon Nemec"
           ],
-          "homeScore": 3,
-          "awayScore": 6,
+          "homeScore": 2,
+          "awayScore": 1,
           "strength": "PP",
           "emptyNet": false,
           "shotType": "wrist",
-          "videoId": "6408750134112",
-          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408750134112",
-          "fallbackUrl": "https://nhl.com/video/chi-van-kantserov-scores-ppg-against-kevin-lankinen-6408750134112"
+          "videoId": "6408796635112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408796635112",
+          "fallbackUrl": "https://nhl.com/video/cgy-ott-coronato-scores-ppg-against-linus-ullmark-6408796635112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020381",
+      "homeTeam": "NYI",
+      "awayTeam": "TOR",
+      "homeScore": 2,
+      "awayScore": 4,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408795853112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "03:12",
+          "teamAbbrev": "NYI",
+          "scorer": "Anthony Duclair",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Matthew Kessel",
+            "Ben Hutton"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408791703112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408791703112",
+          "fallbackUrl": "https://nhl.com/video/tor-nyi-duclair-scores-goal-against-anthony-stolarz-6408791703112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "06:55",
+          "teamAbbrev": "NYI",
+          "scorer": "Mathew Barzal",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Brayden Schenn",
+            "Matthew Kessel"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408792724112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792724112",
+          "fallbackUrl": "https://nhl.com/video/tor-nyi-barzal-scores-goal-against-anthony-stolarz-6408792724112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "10:14",
+          "teamAbbrev": "TOR",
+          "scorer": "Dakota Joshua",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Jake McCabe",
+            "Darren Raddysh"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "deflected",
+          "videoId": "6408794418112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408794418112",
+          "fallbackUrl": "https://nhl.com/video/tor-nyi-joshua-scores-goal-against-ilya-sorokin-6408794418112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "03:52",
+          "teamAbbrev": "TOR",
+          "scorer": "Chris Tanev",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Auston Matthews",
+            "Nick Paul"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408795142112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408795142112",
+          "fallbackUrl": "https://nhl.com/video/tor-nyi-tanev-scores-goal-against-ilya-sorokin-6408795142112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "08:55",
+          "teamAbbrev": "TOR",
+          "scorer": "Gavin McKenna",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Jake McCabe",
+            "Darren Raddysh"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408793172112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408793172112",
+          "fallbackUrl": "https://nhl.com/video/tor-nyi-mckenna-scores-goal-against-ilya-sorokin-6408793172112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "18:07",
+          "teamAbbrev": "TOR",
+          "scorer": "Easton Cowan",
+          "scorerSeasonTotal": 9,
+          "assists": [
+            "Nick Paul"
+          ],
+          "homeScore": 2,
+          "awayScore": 4,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "backhand",
+          "videoId": "6408793884112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408793884112",
+          "fallbackUrl": "https://nhl.com/video/easton-cowan-with-a-goal-vs-new-york-islanders-6408793884112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020382",
+      "homeTeam": "WPG",
+      "awayTeam": "UTA",
+      "homeScore": 4,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408795671112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "05:11",
+          "teamAbbrev": "WPG",
+          "scorer": "Gabriel Vilardi",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Kyle Connor",
+            "Josh Morrissey"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6408791393112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408791393112",
+          "fallbackUrl": "https://nhl.com/video/uta-wpg-vilardi-scores-goal-against-sebastian-cossa-6408791393112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "06:18",
+          "teamAbbrev": "UTA",
+          "scorer": "Andrew Peeke",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Daniil But",
+            "Kevin Stenlund"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408790713112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408790713112",
+          "fallbackUrl": "https://nhl.com/video/uta-wpg-peeke-scores-goal-against-stuart-skinner-6408790713112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "07:26",
+          "teamAbbrev": "WPG",
+          "scorer": "Gabriel Vilardi",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Kyle Connor",
+            "Dylan Samberg"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408791798112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408791798112",
+          "fallbackUrl": "https://nhl.com/video/uta-wpg-vilardi-scores-goal-against-sebastian-cossa-6408791798112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "10:22",
+          "teamAbbrev": "UTA",
+          "scorer": "Lawson Crouse",
+          "scorerSeasonTotal": 3,
+          "assists": [
+            "Vincent Trocheck",
+            "Logan Cooley"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6408792307112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792307112",
+          "fallbackUrl": "https://nhl.com/video/uta-wpg-crouse-scores-goal-against-stuart-skinner-6408792307112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "14:00",
+          "teamAbbrev": "WPG",
+          "scorer": "Morgan Barron",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Viggo Björck",
+            "Mario Ferraro"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6408792312112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408792312112",
+          "fallbackUrl": "https://nhl.com/video/uta-wpg-barron-scores-goal-against-sebastian-cossa-6408792312112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "19:53",
+          "teamAbbrev": "WPG",
+          "scorer": "Gabriel Vilardi",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Mark Scheifele"
+          ],
+          "homeScore": 4,
+          "awayScore": 2,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6408796538112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408796538112",
+          "fallbackUrl": "https://nhl.com/video/gabriel-vilardi-with-a-goal-vs-utah-mammoth-6408796538112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020383",
+      "homeTeam": "SEA",
+      "awayTeam": "ANA",
+      "homeScore": 3,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408800505112",
+      "goals": [
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "02:51",
+          "teamAbbrev": "SEA",
+          "scorer": "Ben Meyers",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Matthew Wood"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408798593112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408798593112",
+          "fallbackUrl": "https://nhl.com/video/ana-sea-meyers-scores-goal-against-lukas-dostal-6408798593112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "04:06",
+          "teamAbbrev": "ANA",
+          "scorer": "Cutter Gauthier",
+          "scorerSeasonTotal": 22,
+          "assists": [
+            "Jackson LaCombe",
+            "Roger McQueen"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408798335112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408798335112",
+          "fallbackUrl": "https://nhl.com/video/ana-sea-gauthier-scores-goal-against-joey-daccord-6408798335112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "10:06",
+          "teamAbbrev": "SEA",
+          "scorer": "Vince Dunn",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Jordan Eberle",
+            "Bobby McMann"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408799100112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408799100112",
+          "fallbackUrl": "https://nhl.com/video/ana-sea-dunn-scores-goal-against-lukas-dostal-6408799100112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "12:35",
+          "teamAbbrev": "ANA",
+          "scorer": "Sam Colangelo",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Frank Vatrano",
+            "Stian Solberg"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408799405112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408799405112",
+          "fallbackUrl": "https://nhl.com/video/ana-sea-colangelo-scores-goal-against-joey-daccord-6408799405112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "17:35",
+          "teamAbbrev": "SEA",
+          "scorer": "Kaapo Kakko",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Brandon Montour",
+            "Mackie Samoskevich"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408800105112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408800105112",
+          "fallbackUrl": "https://nhl.com/video/ana-sea-kakko-scores-goal-against-lukas-dostal-6408800105112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020384",
+      "homeTeam": "SJS",
+      "awayTeam": "MIN",
+      "homeScore": 2,
+      "awayScore": 5,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408799256112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "07:37",
+          "teamAbbrev": "MIN",
+          "scorer": "Kirill Kaprizov",
+          "scorerSeasonTotal": 19,
+          "assists": [
+            "Matt Boldy",
+            "Joel Eriksson Ek"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408795864112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408795864112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-kaprizov-scores-ppg-against-yaroslav-askarov-6408795864112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "10:47",
+          "teamAbbrev": "SJS",
+          "scorer": "Tyler Toffoli",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Mason Marchment",
+            "Macklin Celebrini"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6408797245112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408797245112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-toffoli-scores-ppg-against-filip-gustavsson-6408797245112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "17:29",
+          "teamAbbrev": "SJS",
+          "scorer": "Alexander Wennberg",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Macklin Celebrini",
+            "Michael Misa"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408795979112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408795979112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-wennberg-scores-goal-against-filip-gustavsson-6408795979112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "19:18",
+          "teamAbbrev": "MIN",
+          "scorer": "Brock Faber",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Kirill Kaprizov",
+            "Matt Boldy"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408797762112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408797762112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-faber-scores-goal-against-yaroslav-askarov-6408797762112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "00:13",
+          "teamAbbrev": "MIN",
+          "scorer": "Joel Eriksson Ek",
+          "scorerSeasonTotal": 9,
+          "assists": [
+            "Kirill Kaprizov",
+            "Jared Spurgeon"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408797790112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408797790112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-eriksson-ek-scores-goal-against-yaroslav-askarov-6408797790112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "18:24",
+          "teamAbbrev": "MIN",
+          "scorer": "Blake Coleman",
+          "scorerSeasonTotal": 8,
+          "assists": [
+            "Matt Kiersted"
+          ],
+          "homeScore": 2,
+          "awayScore": 4,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6408800134112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408800134112",
+          "fallbackUrl": "https://nhl.com/video/min-sjs-coleman-scores-empty-net-goal-6408800134112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "19:06",
+          "teamAbbrev": "MIN",
+          "scorer": "Joel Eriksson Ek",
+          "scorerSeasonTotal": 10,
+          "assists": [
+            "Matt Boldy",
+            "Kirill Kaprizov"
+          ],
+          "homeScore": 2,
+          "awayScore": 5,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6408800913112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408800913112",
+          "fallbackUrl": "https://nhl.com/video/joel-eriksson-ek-with-a-goal-vs-san-jose-sharks-6408800913112"
         }
       ]
     }
