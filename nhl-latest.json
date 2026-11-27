@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "fetchedAt": "2026-11-27T22:36:09Z",
+  "fetchedAt": "2026-11-27T23:47:25Z",
   "games": [
     {
       "gameId": "2026020400",
@@ -656,6 +656,489 @@
           "videoId": "6408965242112",
           "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965242112",
           "fallbackUrl": "https://nhl.com/video/dal-stl-holloway-scores-empty-net-goal-6408965242112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020404",
+      "homeTeam": "TBL",
+      "awayTeam": "OTT",
+      "homeScore": 2,
+      "awayScore": 6,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408968072112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "03:37",
+          "teamAbbrev": "OTT",
+          "scorer": "Ridly Greig",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Thomas Chabot"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408962081112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408962081112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-greig-scores-goal-against-dennis-hildeby-6408962081112"
+        },
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "12:47",
+          "teamAbbrev": "OTT",
+          "scorer": "Tim Stützle",
+          "scorerSeasonTotal": 14,
+          "assists": [
+            "Michael Amadio"
+          ],
+          "homeScore": 0,
+          "awayScore": 2,
+          "strength": "SH",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408962528112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408962528112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-stutzle-scores-shg-against-dennis-hildeby-6408962528112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "06:20",
+          "teamAbbrev": "OTT",
+          "scorer": "Michael Amadio",
+          "scorerSeasonTotal": 10,
+          "assists": [
+            "Claude Giroux",
+            "Ridly Greig"
+          ],
+          "homeScore": 0,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "backhand",
+          "videoId": "6408963557112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408963557112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-amadio-scores-goal-against-dennis-hildeby-6408963557112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "17:37",
+          "teamAbbrev": "OTT",
+          "scorer": "Tim Stützle",
+          "scorerSeasonTotal": 15,
+          "assists": [
+            "Fabian Zetterlund",
+            "Dylan Cozens"
+          ],
+          "homeScore": 0,
+          "awayScore": 4,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408966641112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408966641112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-stutzle-scores-goal-against-dennis-hildeby-6408966641112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "06:17",
+          "teamAbbrev": "OTT",
+          "scorer": "Artem Zub",
+          "scorerSeasonTotal": 1,
+          "assists": [
+            "Jake Sanderson",
+            "Nick Cousins"
+          ],
+          "homeScore": 0,
+          "awayScore": 5,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408965599112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965599112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-zub-scores-goal-against-dennis-hildeby-6408965599112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "07:55",
+          "teamAbbrev": "OTT",
+          "scorer": "Claude Giroux",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Michael Amadio",
+            "Tyler Kleven"
+          ],
+          "homeScore": 0,
+          "awayScore": 6,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408967426112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967426112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-giroux-scores-goal-against-dennis-hildeby-6408967426112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "09:04",
+          "teamAbbrev": "TBL",
+          "scorer": "Jake Guentzel",
+          "scorerSeasonTotal": 14,
+          "assists": [
+            "Brandon Hagel"
+          ],
+          "homeScore": 1,
+          "awayScore": 6,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408965601112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965601112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-guentzel-scores-goal-against-linus-ullmark-6408965601112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "13:49",
+          "teamAbbrev": "TBL",
+          "scorer": "Jake Guentzel",
+          "scorerSeasonTotal": 15,
+          "assists": [
+            "Max Crozier"
+          ],
+          "homeScore": 2,
+          "awayScore": 6,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408967148112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967148112",
+          "fallbackUrl": "https://nhl.com/video/ott-tbl-guentzel-scores-goal-against-linus-ullmark-6408967148112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020405",
+      "homeTeam": "PHI",
+      "awayTeam": "VAN",
+      "homeScore": 5,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967702112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "04:55",
+          "teamAbbrev": "PHI",
+          "scorer": "Tyson Foerster",
+          "scorerSeasonTotal": 6,
+          "assists": [
+            "Travis Konecny",
+            "David Jiricek"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408960244112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408960244112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-foerster-scores-ppg-against-leevi-merilainen-6408960244112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "03:45",
+          "teamAbbrev": "PHI",
+          "scorer": "Noah Cates",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Simon Benoit",
+            "Nick Seeler"
+          ],
+          "homeScore": 2,
+          "awayScore": 0,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408962467112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408962467112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-cates-scores-goal-against-leevi-merilainen-6408962467112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "10:37",
+          "teamAbbrev": "PHI",
+          "scorer": "Porter Martone",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Denver Barkey",
+            "Jamie Drysdale"
+          ],
+          "homeScore": 3,
+          "awayScore": 0,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "slap",
+          "videoId": "6408965321112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965321112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-martone-scores-ppg-against-leevi-merilainen-6408965321112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "12:05",
+          "teamAbbrev": "VAN",
+          "scorer": "Filip Hronek",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Liam Ohgren",
+            "Zeev Buium"
+          ],
+          "homeScore": 3,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408965711112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965711112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-hronek-scores-goal-against-dan-vladar-6408965711112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "02:22",
+          "teamAbbrev": "VAN",
+          "scorer": "Jake DeBrusk",
+          "scorerSeasonTotal": 9,
+          "assists": [
+            "Jonathan Lekkerimäki",
+            "Luke Schenn"
+          ],
+          "homeScore": 3,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408964888112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408964888112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-debrusk-scores-goal-against-dan-vladar-6408964888112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "06:02",
+          "teamAbbrev": "PHI",
+          "scorer": "Travis Konecny",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Christian Dvorak",
+            "Tyson Foerster"
+          ],
+          "homeScore": 4,
+          "awayScore": 2,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "wrist",
+          "videoId": "6408966544112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408966544112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-konecny-scores-ppg-against-leevi-merilainen-6408966544112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "18:40",
+          "teamAbbrev": "PHI",
+          "scorer": "Sean Couturier",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Rasmus Ristolainen"
+          ],
+          "homeScore": 5,
+          "awayScore": 2,
+          "strength": "EN",
+          "emptyNet": true,
+          "shotType": "wrist",
+          "videoId": "6408967861112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967861112",
+          "fallbackUrl": "https://nhl.com/video/van-phi-couturier-scores-empty-net-goal-6408967861112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020406",
+      "homeTeam": "WSH",
+      "awayTeam": "FLA",
+      "homeScore": 2,
+      "awayScore": 3,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967373112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "10:26",
+          "teamAbbrev": "WSH",
+          "scorer": "Cole Hutson",
+          "scorerSeasonTotal": 7,
+          "assists": [
+            "Ryan Leonard",
+            "Pierre-Luc Dubois"
+          ],
+          "homeScore": 1,
+          "awayScore": 0,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408962425112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408962425112",
+          "fallbackUrl": "https://nhl.com/video/fla-wsh-hutson-scores-ppg-against-jacob-markstrom-6408962425112"
+        },
+        {
+          "period": 2,
+          "periodType": "REG",
+          "timeInPeriod": "04:51",
+          "teamAbbrev": "FLA",
+          "scorer": "Aaron Ekblad",
+          "scorerSeasonTotal": 2,
+          "assists": [
+            "Brady Tkachuk",
+            "Matthew Tkachuk"
+          ],
+          "homeScore": 1,
+          "awayScore": 1,
+          "strength": "PP",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408963348112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408963348112",
+          "fallbackUrl": "https://nhl.com/video/fla-wsh-ekblad-scores-ppg-against-logan-thompson-6408963348112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "13:06",
+          "teamAbbrev": "WSH",
+          "scorer": "Cole Hutson",
+          "scorerSeasonTotal": 8,
+          "assists": [
+            "Ivan Miroshnichenko",
+            "Justin Sourdif"
+          ],
+          "homeScore": 2,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408967651112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967651112",
+          "fallbackUrl": "https://nhl.com/video/fla-wsh-hutson-scores-goal-against-jacob-markstrom-6408967651112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "15:42",
+          "teamAbbrev": "FLA",
+          "scorer": "Eetu Luostarinen",
+          "scorerSeasonTotal": 4,
+          "assists": [
+            "Brad Marchand",
+            "Anton Lundell"
+          ],
+          "homeScore": 2,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408967176112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967176112",
+          "fallbackUrl": "https://nhl.com/video/fla-wsh-luostarinen-scores-goal-against-logan-thompson-6408967176112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "19:36",
+          "teamAbbrev": "FLA",
+          "scorer": "Sam Bennett",
+          "scorerSeasonTotal": 12,
+          "assists": [
+            "Matthew Tkachuk",
+            "Brady Tkachuk"
+          ],
+          "homeScore": 2,
+          "awayScore": 3,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "tip-in",
+          "videoId": "6408967882112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408967882112",
+          "fallbackUrl": "https://nhl.com/video/fla-wsh-bennett-scores-goal-against-logan-thompson-6408967882112"
+        }
+      ]
+    },
+    {
+      "gameId": "2026020407",
+      "homeTeam": "CBJ",
+      "awayTeam": "DET",
+      "homeScore": 0,
+      "awayScore": 2,
+      "gameState": "OFF",
+      "periodType": "REG",
+      "recapUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408966207112",
+      "goals": [
+        {
+          "period": 1,
+          "periodType": "REG",
+          "timeInPeriod": "11:51",
+          "teamAbbrev": "DET",
+          "scorer": "J.T. Compher",
+          "scorerSeasonTotal": 5,
+          "assists": [
+            "Ben Chiarot",
+            "Moritz Seider"
+          ],
+          "homeScore": 0,
+          "awayScore": 1,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408960554112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408960554112",
+          "fallbackUrl": "https://nhl.com/video/det-cbj-compher-scores-goal-against-jet-greaves-6408960554112"
+        },
+        {
+          "period": 3,
+          "periodType": "REG",
+          "timeInPeriod": "04:37",
+          "teamAbbrev": "DET",
+          "scorer": "Alex DeBrincat",
+          "scorerSeasonTotal": 9,
+          "assists": [
+            "Lucas Raymond",
+            "Albert Johansson"
+          ],
+          "homeScore": 0,
+          "awayScore": 2,
+          "strength": "EV",
+          "emptyNet": false,
+          "shotType": "snap",
+          "videoId": "6408965279112",
+          "embedUrl": "https://players.brightcove.net/6415718365001/EXtG1xJ7H_default/index.html?videoId=6408965279112",
+          "fallbackUrl": "https://nhl.com/video/det-cbj-debrincat-scores-goal-against-jet-greaves-6408965279112"
         }
       ]
     }
